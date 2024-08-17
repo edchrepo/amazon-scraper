@@ -1,3 +1,3 @@
 function msg(){  
-    console.log("Hello Javatpoint");  
+    console.log("Hello JS");  
 }  
